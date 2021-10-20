@@ -1,2 +1,2 @@
 Some text
-Some other work that got merged to master
+Some other work hotfix merged to master
