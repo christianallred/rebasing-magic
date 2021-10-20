@@ -3,5 +3,5 @@ more work text
 another commit on my working branch
 but another commit happend
 Some rebase work
-
 Some mroe work happened on master while i was working on my branch
+some additional rebase work
